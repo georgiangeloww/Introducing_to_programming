@@ -44,8 +44,4 @@ int main(){
             printf("The point is in\n");
         }  
     }
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 }

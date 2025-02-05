@@ -1,6 +1,6 @@
 Week 1
 
-PROBLEM1
+Problem1
 Create a program that outputs a given name to standard output.
 
 Problem2

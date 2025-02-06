@@ -9,7 +9,6 @@ bitwise exclusive disjunction XOR between them
 
 Bitwise_operations_2:
 Program that reads the values ​​of 1 non-negative integer z and non-negative integer n and prints the result of the following bitwise operations on standard output:
-
 bitwise left shift n positions
 bitwise shift right n positions
 

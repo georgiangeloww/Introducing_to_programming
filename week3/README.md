@@ -36,3 +36,10 @@ A program that reads the coordinates of 2 rectangles whose sides are parallel to
 
 Point_in_triangle:
 A program that reads the coordinates of a point from the two-dimensional Cartesian coordinate system, as well as the coordinates of the vertices of a triangle. Output to standard output whether the point belongs to the triangle or does not belong to the triangle.
+
+Transformed_number:
+Program that reads a three-digit number from standard input and performs the following operations on the digits:
+
+If the number is even, replace it with the remainder of the number taken in module 3.
+If the number is odd, replace it with the remainder of the number taken in module 2.
+Output the number after the transformation to standard output.

@@ -30,7 +30,7 @@ int main(){
     }
     
     if (flag){
-        puts("There is at least one point in common!");
+        puts("There is at least One_dimension point in common!");
     }
     else{
         puts("There are no commom points!");

@@ -33,3 +33,6 @@ A program that reads the coordinates of 2 rectangles whose sides are parallel to
 
 Point_in_coordinate_system:
 A program that reads the coordinates of 2 rectangles whose sides are parallel to the coordinate axes of the Cartesian coordinate system. The rectangle is described by four real-valued values ​​- the coordinates of its upper left and lower right corners. The program checks that the rectangles have at least one point in common and prints the result to standard output.
+
+Point_in_triangle:
+A program that reads the coordinates of a point from the two-dimensional Cartesian coordinate system, as well as the coordinates of the vertices of a triangle. Output to standard output whether the point belongs to the triangle or does not belong to the triangle.

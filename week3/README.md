@@ -30,3 +30,16 @@ ax^2 + bx + c = 0
 
 rectangle:
 A program that reads the coordinates of 2 rectangles whose sides are parallel to the coordinate axes of a Cartesian coordinate system. A rectangle is described by four real-valued values ​​- the coordinates of its upper left and lower right corners. The program checks that the rectangles have at least one point in common and prints the result to standard output.
+
+Point_in_coordinate_system:
+A program that reads the coordinates of 2 rectangles whose sides are parallel to the coordinate axes of the Cartesian coordinate system. The rectangle is described by four real-valued values ​​- the coordinates of its upper left and lower right corners. The program checks that the rectangles have at least one point in common and prints the result to standard output.
+
+Point_in_triangle:
+A program that reads the coordinates of a point from the two-dimensional Cartesian coordinate system, as well as the coordinates of the vertices of a triangle. Output to standard output whether the point belongs to the triangle or does not belong to the triangle.
+
+Transformed_number:
+Program that reads a three-digit number from standard input and performs the following operations on the digits:
+
+If the number is even, replace it with the remainder of the number taken in module 3.
+If the number is odd, replace it with the remainder of the number taken in module 2.
+Output the number after the transformation to standard output.

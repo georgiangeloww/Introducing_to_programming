@@ -6,3 +6,7 @@ Program that reads nonnegative integers n, r, and s from standard input, changes
 
 even_number:
 Program that reads from standard input a non-negative integer and checks whether it is even using bitwise operations.
+
+bit_clear:
+Program that reads non-negative integers n and r from standard input and sets the rth bit to 0, printing n on standard output.
+

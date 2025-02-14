@@ -26,3 +26,9 @@ Program that reads from standard input a positive number n and checks whether th
 
 Count_of_bit1:
 Program that reads a character from standard input and outputs to standard output how many bits in the character's decimal notation have the value 1.
+
+Count_of_bit0:
+Program that reads a character from standard input and outputs to standard output how many bits in the character's decimal notation have the value 0.
+
+Hemming_distance:
+Program that reads two characters from standard input and outputs to standard output the Hamming distance between the two decimal entries of the two characters. The Hamming distance shows in how many positions of the decimal entries there are bits of different value.

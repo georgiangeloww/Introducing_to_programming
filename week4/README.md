@@ -17,3 +17,6 @@ Bit_flip:
 
 Change_variables
 Program that reads from standard input two non-negative integers x and y and exchanges their values ​​using the bitwise XOR operation.
+
+Power_of_two:
+Program that reads from standard input the entire non-negative number n and checks whether the number n is a power of 2.

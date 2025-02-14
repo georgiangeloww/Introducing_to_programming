@@ -23,3 +23,6 @@ Program that reads from standard input the entire non-negative number n and chec
 
 Power_of_four:
 Program that reads from standard input a positive number n and checks whether the number n is a power of 4.
+
+Count_of_bit1:
+Program that reads a character from standard input and outputs to standard output how many bits in the character's decimal notation have the value 1.

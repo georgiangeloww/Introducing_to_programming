@@ -20,3 +20,6 @@ Program that reads from standard input two non-negative integers x and y and exc
 
 Power_of_two:
 Program that reads from standard input the entire non-negative number n and checks whether the number n is a power of 2.
+
+Power_of_four:
+Program that reads from standard input a positive number n and checks whether the number n is a power of 4.

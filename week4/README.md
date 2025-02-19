@@ -14,6 +14,7 @@ bit_set:
 Program that reads non-negative integers n and r from standard output and sets the rth bit to 1, printing n on standard output.
 
 Bit_flip:
+Program that reads from standard output non-negative integers n and r and inverts the rth bit of the number n, printing n on standard output.
 
 Change_variables
 Program that reads from standard input two non-negative integers x and y and exchanges their values ​​using the bitwise XOR operation.

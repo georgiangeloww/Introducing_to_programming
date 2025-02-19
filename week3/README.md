@@ -28,7 +28,6 @@ ax + b = 0
 ax^2 + bx + c = 0
 (ax + b)(cx + d) = 0
 
-r
 rectangle:
 Program that reads the coordinates of 2 rectangles whose sides are parallel to the coordinate axes of a Cartesian coordinate system. A rectangle is described by four real-valued values ​​- the coordinates of its upper left and lower right corners. The program checks that the rectangles have at least one point in common and prints the result to standard output.
 

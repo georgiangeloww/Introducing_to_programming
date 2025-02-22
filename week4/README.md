@@ -33,4 +33,4 @@ Program that reads a character from standard input and outputs to standard outpu
 
 Hemming_distance:
 Program that reads two characters from standard input and outputs to standard output the Hamming distance between the two decimal entries of the two characters. The Hamming distance shows in how many positions of the decimal entries there are bits of different value.
-qu
+q
